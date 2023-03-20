@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SERG Publications
+title: Publications
 ---
 
 

@@ -4,15 +4,15 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 future: true
 
-title : The Software Engineering Research Group at Delft University of Technology
+title : Alfan Presekal Profile
 tagline:
 author :
-  name : SERG
-  email : gousiosg@gmail.com
-  github : serg-delft
-  twitter : serg_delft
+  name : Alfan Presekal
+  email : alfanpresekal@gmail.com
+  github : alfanpresekal
+  twitter : alfanpresekal
 
-production_url : se.ewi.tudelft.nl
+production_url : presekal.com
 
 collections:
   events:
